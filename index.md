@@ -16,7 +16,7 @@ Profesional Estadístico, con amplia experiencia en áreas de análisis de datos
 ####  Analista Económico
   Levantamiento del proceso de inventarios: Participe en la primera publicación del índice de inventarios en Chile, tuve que definir y estandarizar procesos, (flujogramas, documentacion y estandart) análisis de datos, y estimaciones de limites para indices, series de tiempo, entre otros capacitando al resto de analistas y participando de todo el proceso.
 
-#### Ingeniero Validación Tecnyca Chile, Consultoria / Asesoría 2012 - 2013
+#### Ingeniero Validación Tecnyca Chile, Consultoria / Asesoría 2012 - 2013 
 
 ####  Matematico.
   Apoyo en diseños experimentales en la manufactura farmaceutica. Evaluacion de procesos de analisis actuales. Elaboracion, validacion y ejecucion de protocolos para la calificacion de equipos de manufactura farmaceutica. Se trabaja en aplicacion de informe 40 de la FDA, e informes ICH de buenas practicas de manufactura de farmacos. Analisis de Riesgo, y Validaciones en terreno en diferentes laboratorios a lo largo de chile.

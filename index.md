@@ -1,4 +1,4 @@
-## Diego Moises Llano Moraga
+## Diego Moises Llano Moraga 
 
 ### Resumen
 Profesional Estadístico, con amplia experiencia en áreas de análisis de datos, labores en areas técnicas y operativas, poseo experiencias en procesos y desarrollos de herramientas de analisis en distintos lenguajes. Alta capacidad de adaptabilidad y aprendizaje de software.

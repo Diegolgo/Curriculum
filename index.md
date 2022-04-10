@@ -36,3 +36,20 @@ Profesional Estadístico, con amplia experiencia en áreas de análisis de datos
   Ingeniería en Estadística, Mención Licenciado
   Universidad de Playa Ancha de Ciencias de la Educación Egresado 2009
   Participante Congreso Nacional de la estadistica, expositor año 2008 sobre Teoria de la Ruina (modelacion de la reserva).
+  
+  
+#### Software y niveles:
+- Stata - Nivel medio manejo de BD, creacion de validaciones, calculos de indice, modelos etc.
+- Office alto, tanto para aplicaciones de ofimatica, como para el desarrollo con excel de herramientas de analisis, macros,  interconexion de datos, Power Bi,etc.
+- SPSS alto, analisis, test, pruebas de hipotesis, informes, modelos, etc.
+- Statistics, alto, analisis, test, pruebas de hipotesis, informes etc.
+- Minitab alto, analisis, test, pruebas de hipotesis, informes etc.
+- R medio, manejo de BD, desarrollo de herramientas, creacion de informes, interconexion de datos, uso de librerias, calculos de indice, modelos etc.
+- Sql medio, redaccion, ejecucion y uso de consultas, revision de consistencias, calculos, procedimientos.
+- Python medio, uso de librerias, manejo de entornos, revision de BD, validaciones, calculos de indice etc.
+- Access avanzado diseño y revision de bases de datos relacionales, calculos, informes, validaciones.
+- Linux medio, uso de distintas distribuciones, paquetes, instalacion, configuracion, uso offimatica y software variado.
+
+Idiomas
+Inglés - Nivel medio Español - Nivel alto 
+

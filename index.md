@@ -1,7 +1,7 @@
 ## Diego Moises Llano Moraga 
 
 ### Resumen
-Profesional Estadístico, con amplia experiencia en áreas de análisis de datos, labores en areas técnicas y operativas, poseo experiencias en procesos y desarrollos de herramientas de analisis en distintos lenguajes. Alta capacidad de adaptabilidad y aprendizaje de software.
+Profesional con amplia experiencia en áreas de análisis de datos, labores en áreas técnicas y operativas, amplio desarrollo en levantamiento y mejora de procesos, diseño de herramientas de análisis y gestión en distintos lenguajes. Alta capacidad, trabajo bajo presión y adaptabilidad. Fortaleza en aprendizaje de software.
 
 ### Experiencia laboral
 
@@ -37,6 +37,18 @@ Profesional Estadístico, con amplia experiencia en áreas de análisis de datos
   Universidad de Playa Ancha de Ciencias de la Educación Egresado 2009
   Participante Congreso Nacional de la estadistica, expositor año 2008 sobre Teoria de la Ruina (modelacion de la reserva).
   
+#### Habilidades y cursos
+
+•	Análisis en STATA / Kibernum
+•	Access avanzado / UNAB
+•	Habilidades de Liderazgo / Segic USACH
+•	Inglés técnico enfocado a la estadística / UDLA
+•	Programación en R / PUC
+•	SPSS avanzado / INE
+•	Habilidades para realizar presentaciones efectivas / Segic USACH
+•	Formación para relatores y confección de cursos / Segic USACH
+•	Taller de documentación de microdatos y metadatos estándar DDI / INE
+
   
 #### Software y niveles:
 - Stata - Nivel medio manejo de BD, creacion de validaciones, calculos de indice, modelos etc.

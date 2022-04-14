@@ -6,4 +6,5 @@ correo diegolgo@gmail.com
 +56967095602
 
 
-Descripción y detalles de labores realizadas
+Descripción y detalles de labores realizadas en  https://diegolgo.github.io/curriculum/
+

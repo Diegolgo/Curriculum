@@ -1,9 +1,10 @@
 ## Diego Moises Llano Moraga 
 ![imagen de perfil](https://user-images.githubusercontent.com/103307572/162616055-17ff3817-3e35-4ad6-a017-8d7d72c42591.png)
 ### Resumen
-Profesional con amplia experiencia en áreas de análisis de datos, labores en áreas técnicas y operativas, amplio desarrollo en levantamiento y mejora de procesos, diseño de herramientas de análisis y gestión en distintos lenguajes. Alta capacidad, trabajo bajo presión y adaptabilidad. Fortaleza en aprendizaje de software.
+Profesional con amplia experiencia en sector público y privado, en áreas de análisis de datos, labores en áreas técnicas y operativas, amplio desarrollo en levantamiento y mejora de procesos, diseño de herramientas de análisis y gestión en distintos lenguajes. Alta capacidad, trabajo bajo presión y adaptabilidad. Fortaleza en aprendizaje de software.
 
-### Experiencia laboral
+###  Experiencia laboral
+<details><summary> (click para expandir)</summary><p>
 
 #### Instituto Nacional De Estadisticas Ine, Poder ejecutivo y administración pública 2013 - 2021
 
@@ -30,9 +31,11 @@ Profesional con amplia experiencia en áreas de análisis de datos, labores en �
 
   Analista  
   Estadistico de carteras Hipotecarias, analista, liquidación de seguros. Estuve a cargo del equipo de carteras hipotecarias, siendo mi mayor responsabilidad la mantencion y analisis de base de datos de siniestros, informes a compañias y clientes, Informes Superintendencia, Supervision carteras regionales.
-
+/p></details>
 #### Formación Académica
 
+<details><summary> (click para expandir)</summary><p>
+  
   Ingeniería en Estadística, Mención Licenciado
   Universidad de Playa Ancha de Ciencias de la Educación Egresado 2009
   Participante Congreso Nacional de la estadistica, expositor año 2008 sobre Teoria de la Ruina (modelacion de la reserva).
@@ -48,7 +51,8 @@ Profesional con amplia experiencia en áreas de análisis de datos, labores en �
 •	Habilidades para realizar presentaciones efectivas / Segic USACH
 •	Formación para relatores y confección de cursos / Segic USACH
 •	Taller de documentación de microdatos y metadatos estándar DDI / INE
-
+  
+/p></details>
   
 #### Software y niveles:
 - Stata - Nivel medio manejo de BD, creacion de validaciones, calculos de indice, modelos etc.
@@ -61,6 +65,7 @@ Profesional con amplia experiencia en áreas de análisis de datos, labores en �
 - Python medio, uso de librerias, manejo de entornos, revision de BD, validaciones, calculos de indice etc.
 - Access avanzado diseño y revision de bases de datos relacionales, calculos, informes, validaciones.
 - Linux medio, uso de distintas distribuciones, paquetes, instalacion, configuracion, uso offimatica y software variado.
+
 
 Idiomas
 Inglés - Nivel medio Español - Nivel alto 

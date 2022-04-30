@@ -1,5 +1,5 @@
 ## Diego Moises Llano Moraga 
-![imagen de gatito](https://ejemplo-el-meme-del-gato-en-la-mesa-portada.jpg)
+![imagen de perfil](https://user-images.githubusercontent.com/103307572/162616055-17ff3817-3e35-4ad6-a017-8d7d72c42591.png)
 ### Resumen
 Profesional con amplia experiencia en áreas de análisis de datos, labores en áreas técnicas y operativas, amplio desarrollo en levantamiento y mejora de procesos, diseño de herramientas de análisis y gestión en distintos lenguajes. Alta capacidad, trabajo bajo presión y adaptabilidad. Fortaleza en aprendizaje de software.
 

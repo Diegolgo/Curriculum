@@ -37,12 +37,14 @@ Profesional con amplia experiencia en sector público y privado, en áreas de an
 
   Analista  
   Estadistico de carteras Hipotecarias, analista, liquidación de seguros. Estuve a cargo del equipo de carteras hipotecarias, siendo mi mayor responsabilidad la mantencion y analisis de base de datos de siniestros, informes a compañias y clientes, Informes Superintendencia, Supervision carteras regionales.
-/p></details>
+          
+</details>
+
 #### Formación Académica
 
 <details><summary> (click para expandir)</summary><p>
   
-  Ingeniería en Estadística, Mención Licenciado
+#### Ingeniería en Estadística, Mención Licenciado
   Universidad de Playa Ancha de Ciencias de la Educación Egresado 2009
   Participante Congreso Nacional de la estadistica, expositor año 2008 sobre Teoria de la Ruina (modelacion de la reserva).
   
@@ -58,7 +60,7 @@ Profesional con amplia experiencia en sector público y privado, en áreas de an
 •	Formación para relatores y confección de cursos / Segic USACH
 •	Taller de documentación de microdatos y metadatos estándar DDI / INE
   
-/p></details>
+</details>
   
 #### Software y niveles:
 - Stata - Nivel medio manejo de BD, creacion de validaciones, calculos de indice, modelos etc.

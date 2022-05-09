@@ -33,13 +33,10 @@ Apoyo en diseños experimentales en la manufactura farmaceutica. Evaluacion de p
 
 ### Jefe de Procesos, Analista Estadistico Woodtech, Informática / Tecnología 2010 - 2011
 
-###  Analista  
-          
 Analista Estadístico en el área de Productos y desarrollo, para evaluar el proceso de modelación estadística, generar modificaciones y establecer políticas de desarrollo, para posteriormente pasar al área de Operaciones, donde asumí laborales de Jefe de Procesos, donde se efectúa soporte de los productos, entre las tareas se destacan; calibraciones, análisis de datos, mantención de modelos, automaticidad, muestreo. Visitas directas de supervisión personal y revisión en la ejecución de procesos de muestreo en terreno de diferentes plantas tanto en Chile como Brasil.
 
 #### Estadistico Viollier & Asociados Liquidadores de Seguros, Seguros / Previsión 2010 - 2010
 
-Analista  
 Estadistico de carteras Hipotecarias, analista, liquidación de seguros. Estuve a cargo del equipo de carteras hipotecarias, siendo mi mayor responsabilidad la mantencion y analisis de base de datos de siniestros, informes a compañias y clientes, Informes Superintendencia, Supervision carteras regionales.
 
 

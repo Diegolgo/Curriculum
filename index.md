@@ -9,9 +9,7 @@
 ### Resumen
 Profesional con amplia experiencia en sector público y privado, en áreas de análisis de datos, labores en áreas técnicas y operativas, amplio desarrollo en levantamiento y mejora de procesos, diseño de herramientas de análisis y gestión en distintos lenguajes. Alta capacidad, trabajo bajo presión y adaptabilidad. Fortaleza en aprendizaje de software.
 
-###  Experiencia laboral
-
-<details><summary>(click para expandir)</summary><p>
+##  Experiencia laboral
 
 ### Instituto Nacional De Estadisticas Ine, Poder ejecutivo y administración pública 2013 - 2021
 
@@ -44,11 +42,9 @@ Analista Estadístico en el área de Productos y desarrollo, para evaluar el pro
 Analista  
 Estadistico de carteras Hipotecarias, analista, liquidación de seguros. Estuve a cargo del equipo de carteras hipotecarias, siendo mi mayor responsabilidad la mantencion y analisis de base de datos de siniestros, informes a compañias y clientes, Informes Superintendencia, Supervision carteras regionales.
 
-</p></details>
 
-### Formación Académica
+## Formación Académica
 
-<details><summary>(click para expandir)</summary><p>
   
 ### Ingeniería en Estadística, Mención Licenciado
           
@@ -67,7 +63,6 @@ Participante Congreso Nacional de la estadistica, expositor año 2008 sobre Teor
 •	Formación para relatores y confección de cursos / Segic USACH
 •	Taller de documentación de microdatos y metadatos estándar DDI / INE
   
-</p></details>
   
 ### Software y niveles:
 

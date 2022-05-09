@@ -34,7 +34,7 @@ Estadístico en el área de Productos y desarrollo, para evaluar el proceso de m
 
 ### Estadistico Viollier & Asociados Liquidadores de Seguros, Seguros / Previsión 2010 - 2010
 
-#### Estadistico 
+#### Estadístico 
 Gestión de carteras Hipotecarias, analista de seguros, liquidación de seguros. Estuve a cargo del equipo de carteras hipotecarias regionales, siendo mi mayor responsabilidad la mantencion y analisis de base de datos de siniestros, informes a compañias y clientes, Informes Superintendencia, proyeccion de liquidacion y manejo de cartera.
 
 
@@ -48,15 +48,15 @@ Participante Congreso Nacional de la estadistica, expositor año 2008 sobre Teor
   
 ### Habilidades y cursos
 
-•	Análisis en STATA / Kibernum
-•	Access avanzado / UNAB
-•	Habilidades de Liderazgo / Segic USACH
-•	Inglés técnico enfocado a la estadística / UDLA
-•	Programación en R / PUC
-•	SPSS avanzado / INE
-•	Habilidades para realizar presentaciones efectivas / Segic USACH
-•	Formación para relatores y confección de cursos / Segic USACH
-•	Taller de documentación de microdatos y metadatos estándar DDI / INE
+- Análisis en STATA / Kibernum
+- Access avanzado / UNAB
+- Habilidades de Liderazgo / Segic USACH
+- Inglés técnico enfocado a la estadística / UDLA
+- Programación en R / PUC
+- SPSS avanzado / INE
+- Habilidades para realizar presentaciones efectivas / Segic USACH
+- Formación para relatores y confección de cursos / Segic USACH
+- Taller de documentación de microdatos y metadatos estándar DDI / INE
   
   
 ### Software y niveles:

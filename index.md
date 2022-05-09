@@ -44,7 +44,7 @@ Profesional con amplia experiencia en sector público y privado, en áreas de an
   Analista  
   Estadistico de carteras Hipotecarias, analista, liquidación de seguros. Estuve a cargo del equipo de carteras hipotecarias, siendo mi mayor responsabilidad la mantencion y analisis de base de datos de siniestros, informes a compañias y clientes, Informes Superintendencia, Supervision carteras regionales.
           
-</details>
+</p></details>
 
 ### Formación Académica
 
@@ -67,7 +67,7 @@ Profesional con amplia experiencia en sector público y privado, en áreas de an
 •	Formación para relatores y confección de cursos / Segic USACH
 •	Taller de documentación de microdatos y metadatos estándar DDI / INE
   
-</details>
+</p></details>
   
 ### Software y niveles:
 

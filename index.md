@@ -6,6 +6,10 @@
 
 ![imagen de perfil](https://user-images.githubusercontent.com/103307572/162616055-17ff3817-3e35-4ad6-a017-8d7d72c42591.png)
 
+contacto +56967095602  diegolgo@gmail.com
+## Ingeniero Estadistico
+11 años de experiencia
+
 ### Resumen
 Profesional con amplia experiencia en sector público y privado, en áreas de análisis de datos, labores en áreas técnicas y operativas, amplio desarrollo en levantamiento y mejora de procesos, diseño de herramientas de análisis y gestión en distintos lenguajes. Alta capacidad, trabajo bajo presión y adaptabilidad. Fortaleza en aprendizaje de software.
 
@@ -76,6 +80,7 @@ Participante Congreso Nacional de la estadistica, expositor año 2008 sobre Teor
 Idiomas
 Inglés - Nivel medio Español - Nivel alto 
 
-contacto y otros vinculos https://linktr.ee/diegolgo
-
+ https://linktr.ee/diegolgo
+<a href="https://linktr.ee/diegolgo">contacto y otros vinculos </a>
+        </li>
 

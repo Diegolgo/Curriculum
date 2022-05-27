@@ -76,3 +76,6 @@ Participante Congreso Nacional de la estadistica, expositor año 2008 sobre Teor
 Idiomas
 Inglés - Nivel medio Español - Nivel alto 
 
+contacto y otros vinculos https://linktr.ee/diegolgo
+
+

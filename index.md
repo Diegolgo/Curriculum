@@ -47,7 +47,8 @@ Gestión de carteras Hipotecarias, analista de seguros, liquidación de seguros.
   
 ### Ingeniería en Estadística, Mención Licenciado
           
-Universidad de Playa Ancha de Ciencias de la Educación Titulado 2009
+### Universidad de Playa Ancha de Ciencias de la Educación Titulado 2009
+
 Participante Congreso Nacional de la estadistica, expositor año 2008 sobre Teoria de la Ruina (modelacion de la reserva).
   
 ### Habilidades y cursos

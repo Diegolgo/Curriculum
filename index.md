@@ -8,7 +8,7 @@
 
 contacto +56967095602  diegolgo@gmail.com
 ## Ingeniero Estadistico
-11 años de experiencia
+
 
 ### Resumen
 Profesional con amplia experiencia en sector público y privado, en áreas de análisis de datos, labores en áreas técnicas y operativas, amplio desarrollo en levantamiento y mejora de procesos, diseño de herramientas de análisis y gestión en distintos lenguajes. Alta capacidad, trabajo bajo presión y adaptabilidad. Fortaleza en aprendizaje de software.

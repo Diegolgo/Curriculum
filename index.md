@@ -23,7 +23,7 @@ He participado en la ejecución activa de mediciones para certificacion y valida
 Estadistica: Como freelance, participé con distintas empresas en analisis de datos, asesorias de conexion a bd (SQL) y creacion de scripts para tareas de analisis, informes y calculos en R (Rstudio). Implementé para el rubro mediciones farmaceuticas, el calculo de resultados para contadores de particulas a través de visual basic y power querys en excel.
 Hardware y Venta: realicé importaciones, armado y configuracion de equipos de alto rendimiento para publico objetivo , destacando en equipos de bajo costo para CAD y diseño 3d.
 
-### Instituto Nacional De Estadisticas Ine, Poder ejecutivo y administración pública 2013 - 2021
+### Instituto Nacional De Estadisticas INE (CHL), Poder ejecutivo y administración pública 2013 - 2021
 
 ####  Coordinador Encuesta Trimestral de la Construcción          
 Participé en la creación y producción trimestral de indice de ingresos de grandes empresas, publicado y actualmente utilizado. Anteriormente, fui analista económico del proyecto realizando Investigación del negocio, análisis de series de tiempo, desarrollo de herramientas de análisis en excel automatizadas mediante power query y visual basic (macros) conectadas con servidores internos en SQL,  desarrollo de herramientas de gestión. creación de estratos homogéneos para limites de confianza, exposición de buenas prácticas de análisis al resto de la institución, validación, levantamiento y diseño de procesos entre otros.

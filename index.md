@@ -11,14 +11,25 @@ contacto +56967095602  diegolgo@gmail.com
 
 
 ### Resumen
-Profesional con amplia experiencia en sector público y privado, en áreas de análisis de datos, labores en áreas técnicas y operativas, amplio desarrollo en levantamiento y mejora de procesos, diseño de herramientas de análisis y gestión en distintos lenguajes. Alta capacidad, trabajo bajo presión y adaptabilidad. Fortaleza en aprendizaje de software.
+Profesional con amplia experiencia en sector público y privado, en áreas de análisis de datos, labores en áreas técnicas y operativas, amplio desarrollo en levantamiento y mejoras de procesos, diseño de herramientas de análisis y gestión en distintos lenguajes. Alta capacidad, trabajo bajo presión y adaptabilidad. Fortaleza en aprendizaje de software.
 
 ##  Experiencia laboral
+
+### Medifilter SpA
+
+####  Coordinador de Operaciones 2024   
+He participado en la ejecución activa de mediciones para certificacion y validación GMP (Farmaceuticas), y sistemas  HVAC para clinicas y hospitales, creando herramientas automatizadas para la creación de informes, minimizando los errores y disminuyendo los tiempos de analisis y conclusión. Implementacion de sistema de gestion documental y servidor interno, administracion de cuentas locales, analisis de datos, como coordinacion he implementado sistemas de planificacion y contratación de personal.
+
+### Asesorías y Emprendimientos 2018-2023
+
+####  Asesor y desarrollador de herramientas          
+Estadistica: Como freelance, participé con distintas empresas en analisis de datos, asesorias de conexion a bd (SQL) y creacion de scripts para tareas de analisis, informes y calculos en R (Rstudio). Implementé para el rubro mediciones farmaceuticas, el calculo de resultados para contadores de particulas a través de visual basic y power querys en excel.
+Hardware y Venta: realicé importaciones, armado y configuracion de equipos de alto rendimiento para publico objetivo , destacando en equipos de bajo costo para CAD y diseño 3d.
 
 ### Instituto Nacional De Estadisticas Ine, Poder ejecutivo y administración pública 2013 - 2021
 
 ####  Coordinador Encuesta Trimestral de la Construcción          
-Participé en la creación y producción trimestral de indice de ingresos de grandes empresas, publicado y actualmente utilizado. Anteriormente, fui analista económico del proyecto realizando Investigación del negocio, análisis de series de tiempo, desarrollo de herramientas de análisis (actualmente en uso) desarrollo de herramientas de gestión. creación de estratos homogéneos para limites de confianza, exposición de buenas prácticas de análisis al resto de la institución, cree herramientas de interconexion de datos sql para mejorar análisis de bases de datos, validación, levantamiento y diseño de procesos etc.
+Participé en la creación y producción trimestral de indice de ingresos de grandes empresas, publicado y actualmente utilizado. Anteriormente, fui analista económico del proyecto realizando Investigación del negocio, análisis de series de tiempo, desarrollo de herramientas de análisis en excel automatizadas mediante power query y visual basic (macros) conectadas con servidores internos en SQL,  desarrollo de herramientas de gestión. creación de estratos homogéneos para limites de confianza, exposición de buenas prácticas de análisis al resto de la institución, validación, levantamiento y diseño de procesos entre otros.
 
 ####  Coordinador Area Técnica       
 Análisis y revisión de levantamiento bases de datos proyectos Innovación y Gasto en I+D. Se logran publicar índices nacionales de gasto en investigación y desarrollo en Chile, así como gasto en innovación, para ello se trabajo en Validación de encuestas, levantamiento y mejoras a los procesos de análisis, Coordinación Operativa, contratación de personal y capacitaciones, coordinación área técnica, desarrollo planes de trabajo y programación.

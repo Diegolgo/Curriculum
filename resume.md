@@ -1,7 +1,4 @@
-## Diego Moises Llano Moraga 
-<li class="masthead__menu-item">
-          <a href="https://github.com/Diegolgo/curriculum/blob/main/Diego-Llano-M-2022%20-%20ENG.pdf.pdf">download this version pdf </a>
-        </li>
+## Diego Moisés Llano Moraga 
         
 ![imagen de perfil](https://user-images.githubusercontent.com/103307572/162616055-17ff3817-3e35-4ad6-a017-8d7d72c42591.png)
 
@@ -14,6 +11,14 @@ Statistical Engineering
 ### Summmary
 Professional with extensive grade of experience in areas of data analysis, work in technical and operational areas, extensive development in surveying and process modelers, improvements, and design, analysis and management tools in different languages and platforms. High capacity, work under pressure and adaptability. Strength in learning software.
 ## Experience
+
+### Medifilter SpA
+Operations Coordinator 2024
+I have participated in the active execution of measurements for GMP (Pharmaceutical) certification and validation, HVAC systems and equipment for clinics and hospitals, creating automated tools for creating reports, minimizing errors and reducing analysis and conclusion times. Implementation of a document management system and internal server, administration of local accounts, data analysis, as coordination I have implemented planning and personnel hiring systems.
+
+### Consulting and Entrepreneurship 2018-2023
+Advisor and tool developer
+Statistics: As a freelancer, I participated with different companies in data analysis, database connection consulting (SQL) and creation of scripts for analysis tasks, reports and calculations in R (Rstudio). I implemented for the pharmaceutical measurements sector, the calculation of results for particle counters through visual basic and power querys in Excel. Hardware and Sales: I carried out imports, assembly and configuration of high-performance equipment for the target audience, highlighting low-cost equipment for CAD and 3D design.
 
 ### Nacional Institute of Statistics, INE Chile, Government
 #### Operations coordinator
